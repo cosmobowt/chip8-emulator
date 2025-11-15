@@ -34,11 +34,13 @@ ROM_File → Path to .ch8 file
 ---
 
 ## 📁 Project Structure
--├── Chip8.cpp # CHIP-8 CPU + Opcode Handling
--├── Chip8.hpp
--├── Platform.cpp # SDL2 Rendering + Input Layer
--├── Platform.hpp
--├── Main.cpp # Main Loop (load → run → render)
--└── README.md
+```
+├── Chip8.cpp # CHIP-8 CPU + Opcode Handling
+├── Chip8.hpp
+├── Platform.cpp # SDL2 Rendering + Input Layer
+├── Platform.hpp
+├── Main.cpp # Main Loop (load → run → render)
+└── README.md
+```
 
 

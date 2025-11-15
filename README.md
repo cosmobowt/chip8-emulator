@@ -15,10 +15,11 @@ Implements the full instruction set, memory model, timers, stack, display, and k
     ./chip8 10 2 ../Tetris.ch8
     ```
 ## Parameters
-
+```
 Scale → How large each CHIP-8 pixel is (10 = 640×320 window)
 CycleDelay_ms → Delay between CPU cycles (2–5 ms recommended)
 ROM_File → Path to .ch8 file
+```
 
 ## ✨ Features
 
